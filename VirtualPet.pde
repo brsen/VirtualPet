@@ -4,7 +4,7 @@ public void setup() {
 }
 
 public void draw() {
-  background(0,0,0);
+  background(132, 126, 135);
   fill(173, 117, 14);
   rect(110,225,40,75,24,24,24,24);
   rect(190,225,40,75,24,24,24,24);
